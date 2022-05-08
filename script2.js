@@ -53,9 +53,6 @@ versatile = [
   },
 ]
  
-// let 
-arlength = arr.length
-// console.log(arlength)
 let slect = document.getElementById("car");
 let text = document.getElementById("text");
 // var html = slect.innerHTML
