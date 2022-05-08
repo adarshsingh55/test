@@ -106,7 +106,7 @@ function buttonHandler() {
         setTimeout(() => {
           printit.innerHTML = printit.innerHTML + print;
           console.log(url);
-        }, 2000);
+        }, 1000);
       } else {
         console.log("some problem has occered");
       }
